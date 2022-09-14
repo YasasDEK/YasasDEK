@@ -1,6 +1,6 @@
 ## Hi there! I'm Yasas Ekanayaka 👋
 
-I'm a self-driven individual, constantly looking to push himself out of his comfort zone to develop himself. A
+I'm a self-driven individual, constantly looking to push myself out of his comfort zone to develop myself. A
 quick, independent learner, willing to try new things and accept challenges. Focus areas include
 Programming, web development and mobile development. I firmly believe that there are no good or bad
 experiences, but only experience
