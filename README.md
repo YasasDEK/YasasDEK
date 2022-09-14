@@ -62,5 +62,4 @@ Other<br/>
 </p>
 
 ### GitHub Analytics
-![Yasas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasasDEK&hide=issues)
-<!-- [![Yasas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasasDEK)](https://github.com/anuraghazra/github-readme-stats&hide=issues) -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YasasDEK&hide=issues)
