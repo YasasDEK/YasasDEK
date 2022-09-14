@@ -1,4 +1,4 @@
-### Hi there! I'm Yasas Ekanayaka 👋
+## Hi there! I'm Yasas Ekanayaka 👋
 
 I'm a self-driven individual, constantly looking to push himself out of his comfort zone to develop himself. A
 quick, independent learner, willing to try new things and accept challenges. Focus areas include
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> 🚀 &nbsp;Tools & Technological skills
+### 🚀 &nbsp;Tools & Technological skills
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>
