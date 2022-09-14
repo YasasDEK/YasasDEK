@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🚀 &nbsp;Tools & Technological skills
+### Tools & Technological skills 👨‍💻
 <p align="left">
 Programming<br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>
