@@ -1,5 +1,10 @@
 ### Hi there! I'm Yasas Ekanayaka 👋
 
+A self-driven individual, constantly looking to push himself out of his comfort zone to develop himself. A
+quick, independent learner, willing to try new things and accept challenges. Focus areas include
+Programming, web development and mobile development. Firmly believes that there are no good or bad
+experiences, but only experience
+
 <!--
 **YasasDEK/YasasDEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
