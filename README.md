@@ -66,3 +66,4 @@ Other<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasasDEK&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasasDEK) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YasasDEK&count_private=true&hide=issues)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YasasDEK&theme=dark)](https://git.io/streak-stats)
