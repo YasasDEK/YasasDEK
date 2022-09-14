@@ -30,7 +30,7 @@ Programming<br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" width="35" height="35" /><br/>
  
-Web & Mobile development<br/>  
+Web & Mobile development<br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="35" height="35"/>
