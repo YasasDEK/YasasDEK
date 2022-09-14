@@ -41,23 +41,16 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="RaspberryPi" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="Prometheus" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg" alt="Octave" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MaterialUI" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="Markdown" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="Jenkins" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Idea" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="Grafana" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="45" height="45"/>
-  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Idea" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Idea" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Idea" width="45" height="45"/>
-  https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg
- 
-  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" alt="Prometheus" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Octave-Dark.svg" alt="Octave" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MaterialUI" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="Markdown" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="Jenkins" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="Idea" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="Grafana" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="45" height="45"/>  
 </p>
