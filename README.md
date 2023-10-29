@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 Programming<br/>
 
-<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" alt="Youtube Badge"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
@@ -32,6 +32,10 @@ Programming<br/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" width="35" height="35" /><br/>
  
 Web & Mobile development<br/>
+<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" alt="Youtube Badge"/>
+<img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next&logoColor=white" alt="Youtube Badge"/>
+
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextJS" width="35" height="35"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
