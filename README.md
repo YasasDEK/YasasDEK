@@ -62,8 +62,8 @@ Other<br/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="35" height="35"/>
 </p>
 
-### GitHub Analytics
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YasasDEK&hide=issues)
+<!--### GitHub Analytics
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YasasDEK&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasasDEK&langs_count=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasasDEK)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YasasDEK&count_private=true&hide=issues)<br/>
