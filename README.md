@@ -32,8 +32,8 @@ Programming<br/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" width="35" height="35" /><br/>
  
 Web & Mobile development<br/>
-<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" alt="Youtube Badge"/>
-<img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next&logoColor=white" alt="Youtube Badge"/>
+<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextJS" width="35" height="35"/> 
