@@ -33,7 +33,7 @@ Programming<br/>
  
 Web & Mobile development<br/>
 <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
 
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextJS" width="35" height="35"/> 
