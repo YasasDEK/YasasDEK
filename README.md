@@ -96,6 +96,7 @@ Other<br/>
 <img src="https://img.shields.io/badge/grafana-yellow?style=for-the-badge&logo=grafana&logoColor=white" alt="image">
 <img src="https://img.shields.io/badge/octave-orange?style=for-the-badge&logo=octave&logoColor=white" alt="image">
 <img src="https://img.shields.io/badge/r-grey?style=for-the-badge&logo=r&logoColor=white" alt="image">
+<img src="https://img.shields.io/badge/linux-orange?style=for-the-badge&logo=linux&logoColor=050036" alt="image">
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="image">
 <img src="https://img.shields.io/badge/visualstudio-2e2258?style=for-the-badge&logo=visualstudio&logoColor=white" alt="image">
