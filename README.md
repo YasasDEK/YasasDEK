@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 Programming<br/>
 
+<img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" alt="Youtube Badge"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
@@ -62,7 +63,6 @@ Other<br/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" width="35" height="35"/>
 </p>
 
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 <!--### GitHub Analytics
  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YasasDEK&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasasDEK&langs_count=8)
